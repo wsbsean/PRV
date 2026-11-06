@@ -1,9 +1,0 @@
-{
-  "generated_at":"2026-11-06T00:00:00Z",
-  "account":{"name":"Donald Trump","handle":"realDonaldTrump","platform_label":"Truth Social"},
-  "history_days":0,
-  "baseline":{"avg_day":0,"avg_week":0,"avg_12h":0,"avg_6h":0,"avg_hour":0},
-  "summary":{"12h":{"current":0,"baseline":0,"pct":0},"24h":{"current":0,"baseline":0,"pct":0},"7d":{"current":0,"baseline":0,"pct":0}},
-  "series":{"1h":[],"6h":[],"12h":[],"24h":[],"3d":[],"7d":[],"30d":[],"90d":[]},
-  "alerts":[]
-}
