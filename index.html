@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PostPulse — Social Activity Baseline</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><div class="brand">PostPulse</div><nav><a href="index.html" class="active">Dashboard</a><a href="accounts.html">Accounts</a></nav></header>
+<main>
+<section class="hero"><div><div class="eyebrow">SOCIAL ACTIVITY MONITOR</div><h1>Donald Trump</h1><p id="accountSub">Truth Social · @realDonaldTrump</p></div><div id="updated" class="updated">Loading…</div></section>
+<div id="status" class="notice">Loading activity data…</div>
+<section class="cards" id="cards"></section>
+<section class="panel">
+<div class="panelhead"><div><h2>Posting activity</h2><p>Current volume compared with the historical baseline.</p></div>
+<div class="ranges" id="ranges">
+<button data-range="1h">1H</button><button data-range="6h">6H</button><button data-range="12h" class="selected">12H</button><button data-range="24h">24H</button><button data-range="3d">3D</button><button data-range="7d">7D</button><button data-range="30d">30D</button><button data-range="90d">90D</button>
+</div></div>
+<div id="chartWrap"><canvas id="chart"></canvas></div>
+<div class="legend"><span><i class="normal"></i> historical baseline</span><span><i class="current"></i> current activity</span></div>
+</section>
+<section class="two">
+<div class="panel"><h2>Baseline</h2><div id="baseline"></div></div>
+<div class="panel"><h2>Alerts</h2><div id="alerts"></div></div>
+</section>
+</main>
+<footer>PostPulse · Data is collected from publicly accessible sources. No official X/Truth Social API is used.</footer>
+<script src="app.js"></script>
+</body></html>
