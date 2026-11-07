@@ -1,1 +1,2502 @@
-[]
+[
+  {
+    "id": "https://www.trumpstruth.org/statuses/42992",
+    "timestamp": "2026-10-31T18:15:23+00:00",
+    "url": "https://www.trumpstruth.org/statuses/42992"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/42996",
+    "timestamp": "2026-10-31T18:19:50+00:00",
+    "url": "https://www.trumpstruth.org/statuses/42996"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43000",
+    "timestamp": "2026-10-31T18:23:31+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43000"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43002",
+    "timestamp": "2026-10-31T18:24:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43002"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43001",
+    "timestamp": "2026-10-31T18:24:43+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43001"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43088",
+    "timestamp": "2026-10-31T18:24:53+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43088"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43017",
+    "timestamp": "2026-10-31T18:25:26+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43017"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43016",
+    "timestamp": "2026-10-31T18:25:36+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43016"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43015",
+    "timestamp": "2026-10-31T18:25:45+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43015"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43014",
+    "timestamp": "2026-10-31T18:25:57+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43014"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43006",
+    "timestamp": "2026-10-31T18:26:06+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43006"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43005",
+    "timestamp": "2026-10-31T18:26:16+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43005"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43004",
+    "timestamp": "2026-10-31T18:26:26+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43004"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43003",
+    "timestamp": "2026-10-31T18:26:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43003"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43013",
+    "timestamp": "2026-10-31T18:26:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43013"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43012",
+    "timestamp": "2026-10-31T18:26:53+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43012"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43011",
+    "timestamp": "2026-10-31T18:27:09+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43011"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43010",
+    "timestamp": "2026-10-31T18:27:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43010"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43009",
+    "timestamp": "2026-10-31T18:27:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43009"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43008",
+    "timestamp": "2026-10-31T18:28:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43008"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43007",
+    "timestamp": "2026-10-31T18:29:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43007"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43087",
+    "timestamp": "2026-10-31T19:12:49+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43087"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43086",
+    "timestamp": "2026-10-31T19:13:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43086"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43085",
+    "timestamp": "2026-10-31T19:14:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43085"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43084",
+    "timestamp": "2026-10-31T19:14:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43084"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43083",
+    "timestamp": "2026-10-31T19:14:46+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43083"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43082",
+    "timestamp": "2026-10-31T19:14:59+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43082"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43081",
+    "timestamp": "2026-10-31T19:15:09+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43081"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43080",
+    "timestamp": "2026-10-31T19:15:18+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43080"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43079",
+    "timestamp": "2026-10-31T19:15:27+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43079"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43078",
+    "timestamp": "2026-10-31T19:15:36+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43078"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43077",
+    "timestamp": "2026-10-31T19:15:48+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43077"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43076",
+    "timestamp": "2026-10-31T19:15:57+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43076"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43075",
+    "timestamp": "2026-10-31T19:16:07+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43075"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43074",
+    "timestamp": "2026-10-31T19:16:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43074"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43073",
+    "timestamp": "2026-10-31T19:16:23+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43073"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43072",
+    "timestamp": "2026-10-31T19:16:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43072"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43071",
+    "timestamp": "2026-10-31T19:16:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43071"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43070",
+    "timestamp": "2026-10-31T19:16:54+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43070"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43069",
+    "timestamp": "2026-10-31T19:17:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43069"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43068",
+    "timestamp": "2026-10-31T19:20:06+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43068"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43067",
+    "timestamp": "2026-10-31T19:20:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43067"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43066",
+    "timestamp": "2026-10-31T19:20:25+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43066"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43065",
+    "timestamp": "2026-10-31T19:20:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43065"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43064",
+    "timestamp": "2026-10-31T19:20:45+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43064"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43063",
+    "timestamp": "2026-10-31T19:20:55+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43063"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43062",
+    "timestamp": "2026-10-31T19:21:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43062"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43061",
+    "timestamp": "2026-10-31T19:22:00+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43061"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43026",
+    "timestamp": "2026-10-31T19:22:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43026"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43025",
+    "timestamp": "2026-10-31T19:22:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43025"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43024",
+    "timestamp": "2026-10-31T19:22:40+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43024"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43023",
+    "timestamp": "2026-10-31T19:22:51+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43023"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43022",
+    "timestamp": "2026-10-31T19:23:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43022"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43021",
+    "timestamp": "2026-10-31T19:28:25+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43021"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43020",
+    "timestamp": "2026-10-31T19:33:16+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43020"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43019",
+    "timestamp": "2026-10-31T19:33:27+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43019"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43018",
+    "timestamp": "2026-10-31T19:33:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43018"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43060",
+    "timestamp": "2026-10-31T19:48:21+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43060"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43059",
+    "timestamp": "2026-10-31T19:48:54+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43059"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43027",
+    "timestamp": "2026-10-31T19:49:50+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43027"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43058",
+    "timestamp": "2026-10-31T19:50:02+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43058"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43057",
+    "timestamp": "2026-10-31T19:50:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43057"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43056",
+    "timestamp": "2026-10-31T19:50:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43056"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43055",
+    "timestamp": "2026-10-31T19:50:29+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43055"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43054",
+    "timestamp": "2026-10-31T19:50:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43054"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43053",
+    "timestamp": "2026-10-31T19:51:05+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43053"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43052",
+    "timestamp": "2026-10-31T19:51:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43052"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43051",
+    "timestamp": "2026-10-31T19:51:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43051"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43050",
+    "timestamp": "2026-10-31T19:51:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43050"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43049",
+    "timestamp": "2026-10-31T19:51:45+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43049"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43048",
+    "timestamp": "2026-10-31T19:51:54+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43048"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43047",
+    "timestamp": "2026-10-31T19:52:03+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43047"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43046",
+    "timestamp": "2026-10-31T19:52:26+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43046"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43045",
+    "timestamp": "2026-10-31T19:52:52+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43045"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43044",
+    "timestamp": "2026-10-31T20:21:54+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43044"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43043",
+    "timestamp": "2026-10-31T20:41:55+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43043"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43042",
+    "timestamp": "2026-10-31T20:42:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43042"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43041",
+    "timestamp": "2026-10-31T20:42:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43041"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43033",
+    "timestamp": "2026-10-31T20:50:54+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43033"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43040",
+    "timestamp": "2026-10-31T20:51:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43040"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43039",
+    "timestamp": "2026-10-31T20:51:40+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43039"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43038",
+    "timestamp": "2026-10-31T20:51:55+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43038"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43037",
+    "timestamp": "2026-10-31T20:52:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43037"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43036",
+    "timestamp": "2026-10-31T20:52:13+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43036"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43035",
+    "timestamp": "2026-10-31T20:52:23+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43035"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43034",
+    "timestamp": "2026-10-31T20:52:31+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43034"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43031",
+    "timestamp": "2026-10-31T20:52:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43031"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43030",
+    "timestamp": "2026-10-31T20:52:53+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43030"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43029",
+    "timestamp": "2026-10-31T20:53:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43029"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43028",
+    "timestamp": "2026-10-31T20:53:36+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43028"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43032",
+    "timestamp": "2026-10-31T20:54:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43032"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43091",
+    "timestamp": "2026-10-31T22:02:53+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43091"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43090",
+    "timestamp": "2026-10-31T22:47:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43090"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43089",
+    "timestamp": "2026-10-31T22:47:41+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43089"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43092",
+    "timestamp": "2026-11-01T03:31:13+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43092"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43093",
+    "timestamp": "2026-11-01T03:31:52+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43093"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43099",
+    "timestamp": "2026-11-01T15:21:01+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43099"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43098",
+    "timestamp": "2026-11-01T15:21:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43098"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43097",
+    "timestamp": "2026-11-01T15:21:37+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43097"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43094",
+    "timestamp": "2026-11-01T15:22:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43094"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43096",
+    "timestamp": "2026-11-01T15:23:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43096"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43095",
+    "timestamp": "2026-11-01T15:23:50+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43095"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43100",
+    "timestamp": "2026-11-01T15:46:51+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43100"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43109",
+    "timestamp": "2026-11-01T15:47:49+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43109"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43108",
+    "timestamp": "2026-11-01T15:48:02+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43108"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43107",
+    "timestamp": "2026-11-01T15:48:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43107"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43103",
+    "timestamp": "2026-11-01T15:48:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43103"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43102",
+    "timestamp": "2026-11-01T15:48:33+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43102"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43101",
+    "timestamp": "2026-11-01T15:48:43+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43101"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43106",
+    "timestamp": "2026-11-01T15:48:53+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43106"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43105",
+    "timestamp": "2026-11-01T15:49:02+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43105"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43104",
+    "timestamp": "2026-11-01T15:49:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43104"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43110",
+    "timestamp": "2026-11-01T17:32:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43110"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43112",
+    "timestamp": "2026-11-01T18:38:03+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43112"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43111",
+    "timestamp": "2026-11-01T18:38:54+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43111"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43113",
+    "timestamp": "2026-11-01T18:46:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43113"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43114",
+    "timestamp": "2026-11-01T18:59:30+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43114"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43119",
+    "timestamp": "2026-11-01T19:03:31+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43119"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43118",
+    "timestamp": "2026-11-01T19:03:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43118"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43117",
+    "timestamp": "2026-11-01T19:03:51+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43117"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43116",
+    "timestamp": "2026-11-01T19:04:00+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43116"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43115",
+    "timestamp": "2026-11-01T19:04:09+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43115"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43121",
+    "timestamp": "2026-11-01T19:20:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43121"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43120",
+    "timestamp": "2026-11-01T19:20:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43120"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43153",
+    "timestamp": "2026-11-01T19:21:50+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43153"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43152",
+    "timestamp": "2026-11-01T19:22:06+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43152"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43151",
+    "timestamp": "2026-11-01T19:22:41+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43151"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43150",
+    "timestamp": "2026-11-01T19:22:54+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43150"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43122",
+    "timestamp": "2026-11-01T19:23:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43122"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43149",
+    "timestamp": "2026-11-01T19:24:03+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43149"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43148",
+    "timestamp": "2026-11-01T19:24:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43148"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43147",
+    "timestamp": "2026-11-01T19:24:30+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43147"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43146",
+    "timestamp": "2026-11-01T19:24:40+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43146"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43145",
+    "timestamp": "2026-11-01T19:24:52+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43145"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43144",
+    "timestamp": "2026-11-01T19:25:01+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43144"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43124",
+    "timestamp": "2026-11-01T19:25:11+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43124"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43123",
+    "timestamp": "2026-11-01T19:25:21+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43123"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43143",
+    "timestamp": "2026-11-01T19:25:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43143"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43142",
+    "timestamp": "2026-11-01T19:25:46+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43142"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43141",
+    "timestamp": "2026-11-01T19:25:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43141"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43140",
+    "timestamp": "2026-11-01T19:26:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43140"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43139",
+    "timestamp": "2026-11-01T19:26:21+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43139"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43138",
+    "timestamp": "2026-11-01T19:26:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43138"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43137",
+    "timestamp": "2026-11-01T19:26:49+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43137"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43136",
+    "timestamp": "2026-11-01T19:26:59+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43136"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43135",
+    "timestamp": "2026-11-01T19:27:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43135"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43131",
+    "timestamp": "2026-11-01T19:27:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43131"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43130",
+    "timestamp": "2026-11-01T19:27:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43130"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43129",
+    "timestamp": "2026-11-01T19:27:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43129"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43127",
+    "timestamp": "2026-11-01T19:27:57+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43127"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43126",
+    "timestamp": "2026-11-01T19:28:09+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43126"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43125",
+    "timestamp": "2026-11-01T19:29:01+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43125"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43128",
+    "timestamp": "2026-11-01T19:29:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43128"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43134",
+    "timestamp": "2026-11-01T19:37:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43134"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43133",
+    "timestamp": "2026-11-01T19:37:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43133"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43132",
+    "timestamp": "2026-11-01T19:37:33+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43132"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43154",
+    "timestamp": "2026-11-01T23:51:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43154"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43155",
+    "timestamp": "2026-11-02T02:20:49+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43155"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43156",
+    "timestamp": "2026-11-02T06:50:02+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43156"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43157",
+    "timestamp": "2026-11-02T06:52:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43157"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43158",
+    "timestamp": "2026-11-02T15:48:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43158"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43161",
+    "timestamp": "2026-11-02T15:55:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43161"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43160",
+    "timestamp": "2026-11-02T15:55:20+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43160"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43159",
+    "timestamp": "2026-11-02T15:55:33+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43159"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43176",
+    "timestamp": "2026-11-02T15:55:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43176"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43175",
+    "timestamp": "2026-11-02T15:55:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43175"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43174",
+    "timestamp": "2026-11-02T15:56:09+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43174"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43173",
+    "timestamp": "2026-11-02T15:56:27+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43173"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43168",
+    "timestamp": "2026-11-02T15:57:02+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43168"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43163",
+    "timestamp": "2026-11-02T15:57:26+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43163"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43162",
+    "timestamp": "2026-11-02T15:57:40+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43162"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43172",
+    "timestamp": "2026-11-02T15:57:50+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43172"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43171",
+    "timestamp": "2026-11-02T15:58:01+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43171"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43166",
+    "timestamp": "2026-11-02T15:58:13+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43166"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43165",
+    "timestamp": "2026-11-02T15:58:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43165"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43164",
+    "timestamp": "2026-11-02T15:58:57+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43164"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43170",
+    "timestamp": "2026-11-02T15:59:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43170"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43169",
+    "timestamp": "2026-11-02T16:02:07+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43169"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43167",
+    "timestamp": "2026-11-02T16:03:03+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43167"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43177",
+    "timestamp": "2026-11-02T16:36:46+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43177"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43191",
+    "timestamp": "2026-11-02T16:37:21+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43191"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43190",
+    "timestamp": "2026-11-02T16:37:37+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43190"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43189",
+    "timestamp": "2026-11-02T16:37:50+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43189"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43188",
+    "timestamp": "2026-11-02T16:38:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43188"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43187",
+    "timestamp": "2026-11-02T16:38:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43187"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43186",
+    "timestamp": "2026-11-02T16:38:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43186"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43185",
+    "timestamp": "2026-11-02T16:38:41+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43185"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43182",
+    "timestamp": "2026-11-02T16:38:50+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43182"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43181",
+    "timestamp": "2026-11-02T16:38:58+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43181"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43180",
+    "timestamp": "2026-11-02T16:39:08+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43180"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43179",
+    "timestamp": "2026-11-02T16:39:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43179"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43178",
+    "timestamp": "2026-11-02T16:39:29+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43178"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43184",
+    "timestamp": "2026-11-02T16:40:07+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43184"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43183",
+    "timestamp": "2026-11-02T16:40:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43183"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43193",
+    "timestamp": "2026-11-02T17:14:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43193"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43192",
+    "timestamp": "2026-11-02T17:15:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43192"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43194",
+    "timestamp": "2026-11-02T20:21:27+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43194"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43195",
+    "timestamp": "2026-11-02T20:25:11+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43195"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43271",
+    "timestamp": "2026-11-02T20:25:41+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43271"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43205",
+    "timestamp": "2026-11-02T20:25:57+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43205"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43204",
+    "timestamp": "2026-11-02T20:26:18+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43204"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43201",
+    "timestamp": "2026-11-02T20:27:00+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43201"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43200",
+    "timestamp": "2026-11-02T20:27:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43200"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43199",
+    "timestamp": "2026-11-02T20:27:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43199"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43198",
+    "timestamp": "2026-11-02T20:27:48+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43198"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43197",
+    "timestamp": "2026-11-02T20:28:01+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43197"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43196",
+    "timestamp": "2026-11-02T20:28:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43196"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43203",
+    "timestamp": "2026-11-02T20:44:16+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43203"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43202",
+    "timestamp": "2026-11-02T20:46:30+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43202"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43207",
+    "timestamp": "2026-11-02T21:20:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43207"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43270",
+    "timestamp": "2026-11-02T21:21:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43270"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43269",
+    "timestamp": "2026-11-02T21:21:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43269"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43268",
+    "timestamp": "2026-11-02T21:28:36+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43268"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43267",
+    "timestamp": "2026-11-02T21:29:57+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43267"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43266",
+    "timestamp": "2026-11-02T21:30:11+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43266"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43265",
+    "timestamp": "2026-11-02T21:30:25+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43265"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43264",
+    "timestamp": "2026-11-02T21:30:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43264"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43263",
+    "timestamp": "2026-11-02T21:30:46+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43263"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43262",
+    "timestamp": "2026-11-02T21:30:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43262"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43214",
+    "timestamp": "2026-11-02T21:31:07+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43214"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43213",
+    "timestamp": "2026-11-02T21:31:18+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43213"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43212",
+    "timestamp": "2026-11-02T21:31:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43212"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43211",
+    "timestamp": "2026-11-02T21:31:37+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43211"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43210",
+    "timestamp": "2026-11-02T21:31:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43210"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43209",
+    "timestamp": "2026-11-02T21:31:57+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43209"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43208",
+    "timestamp": "2026-11-02T21:32:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43208"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43206",
+    "timestamp": "2026-11-02T21:32:26+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43206"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43216",
+    "timestamp": "2026-11-02T22:28:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43216"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43261",
+    "timestamp": "2026-11-02T22:28:55+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43261"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43260",
+    "timestamp": "2026-11-02T22:29:08+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43260"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43219",
+    "timestamp": "2026-11-02T22:29:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43219"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43218",
+    "timestamp": "2026-11-02T22:30:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43218"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43217",
+    "timestamp": "2026-11-02T22:30:59+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43217"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43215",
+    "timestamp": "2026-11-02T22:31:08+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43215"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43224",
+    "timestamp": "2026-11-02T22:55:48+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43224"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43259",
+    "timestamp": "2026-11-02T22:56:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43259"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43258",
+    "timestamp": "2026-11-02T22:56:58+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43258"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43257",
+    "timestamp": "2026-11-02T22:57:11+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43257"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43256",
+    "timestamp": "2026-11-02T22:57:23+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43256"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43255",
+    "timestamp": "2026-11-02T22:57:39+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43255"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43254",
+    "timestamp": "2026-11-02T22:57:51+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43254"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43253",
+    "timestamp": "2026-11-02T22:58:12+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43253"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43252",
+    "timestamp": "2026-11-02T22:58:30+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43252"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43251",
+    "timestamp": "2026-11-02T22:58:43+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43251"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43250",
+    "timestamp": "2026-11-02T22:59:06+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43250"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43249",
+    "timestamp": "2026-11-02T22:59:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43249"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43248",
+    "timestamp": "2026-11-02T23:02:49+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43248"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43247",
+    "timestamp": "2026-11-02T23:03:11+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43247"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43246",
+    "timestamp": "2026-11-02T23:07:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43246"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43245",
+    "timestamp": "2026-11-02T23:07:52+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43245"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43244",
+    "timestamp": "2026-11-02T23:08:02+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43244"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43243",
+    "timestamp": "2026-11-02T23:08:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43243"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43242",
+    "timestamp": "2026-11-02T23:08:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43242"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43241",
+    "timestamp": "2026-11-02T23:08:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43241"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43240",
+    "timestamp": "2026-11-02T23:08:54+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43240"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43239",
+    "timestamp": "2026-11-02T23:09:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43239"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43238",
+    "timestamp": "2026-11-02T23:09:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43238"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43237",
+    "timestamp": "2026-11-02T23:09:26+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43237"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43236",
+    "timestamp": "2026-11-02T23:09:39+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43236"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43222",
+    "timestamp": "2026-11-02T23:09:51+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43222"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43221",
+    "timestamp": "2026-11-02T23:10:02+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43221"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43220",
+    "timestamp": "2026-11-02T23:10:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43220"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43235",
+    "timestamp": "2026-11-02T23:14:08+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43235"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43234",
+    "timestamp": "2026-11-02T23:14:18+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43234"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43233",
+    "timestamp": "2026-11-02T23:14:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43233"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43232",
+    "timestamp": "2026-11-02T23:14:37+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43232"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43231",
+    "timestamp": "2026-11-02T23:14:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43231"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43230",
+    "timestamp": "2026-11-02T23:14:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43230"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43229",
+    "timestamp": "2026-11-02T23:15:07+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43229"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43228",
+    "timestamp": "2026-11-02T23:15:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43228"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43227",
+    "timestamp": "2026-11-02T23:15:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43227"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43226",
+    "timestamp": "2026-11-02T23:15:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43226"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43225",
+    "timestamp": "2026-11-02T23:16:11+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43225"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43223",
+    "timestamp": "2026-11-02T23:16:26+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43223"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43294",
+    "timestamp": "2026-11-03T00:08:38+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43294"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43293",
+    "timestamp": "2026-11-03T00:10:23+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43293"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43292",
+    "timestamp": "2026-11-03T00:10:36+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43292"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43291",
+    "timestamp": "2026-11-03T00:12:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43291"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43290",
+    "timestamp": "2026-11-03T00:12:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43290"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43289",
+    "timestamp": "2026-11-03T00:12:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43289"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43288",
+    "timestamp": "2026-11-03T00:13:03+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43288"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43287",
+    "timestamp": "2026-11-03T00:13:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43287"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43286",
+    "timestamp": "2026-11-03T00:13:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43286"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43285",
+    "timestamp": "2026-11-03T00:14:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43285"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43284",
+    "timestamp": "2026-11-03T00:14:51+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43284"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43283",
+    "timestamp": "2026-11-03T01:04:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43283"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43282",
+    "timestamp": "2026-11-03T01:04:38+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43282"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43281",
+    "timestamp": "2026-11-03T01:05:13+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43281"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43280",
+    "timestamp": "2026-11-03T01:05:46+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43280"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43279",
+    "timestamp": "2026-11-03T01:06:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43279"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43278",
+    "timestamp": "2026-11-03T01:06:37+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43278"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43277",
+    "timestamp": "2026-11-03T01:08:20+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43277"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43276",
+    "timestamp": "2026-11-03T01:08:31+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43276"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43275",
+    "timestamp": "2026-11-03T01:08:45+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43275"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43274",
+    "timestamp": "2026-11-03T01:08:48+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43274"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43272",
+    "timestamp": "2026-11-03T03:16:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43272"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43295",
+    "timestamp": "2026-11-03T05:29:38+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43295"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43296",
+    "timestamp": "2026-11-03T05:52:07+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43296"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43297",
+    "timestamp": "2026-11-03T06:12:30+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43297"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43458",
+    "timestamp": "2026-11-03T12:11:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43458"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43437",
+    "timestamp": "2026-11-03T12:12:12+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43437"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43436",
+    "timestamp": "2026-11-03T12:12:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43436"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43299",
+    "timestamp": "2026-11-03T12:13:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43299"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43298",
+    "timestamp": "2026-11-03T12:13:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43298"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43435",
+    "timestamp": "2026-11-03T12:14:06+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43435"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43434",
+    "timestamp": "2026-11-03T12:14:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43434"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43433",
+    "timestamp": "2026-11-03T12:14:23+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43433"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43432",
+    "timestamp": "2026-11-03T12:14:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43432"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43431",
+    "timestamp": "2026-11-03T12:14:43+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43431"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43430",
+    "timestamp": "2026-11-03T12:14:53+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43430"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43429",
+    "timestamp": "2026-11-03T12:15:02+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43429"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43428",
+    "timestamp": "2026-11-03T12:15:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43428"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43303",
+    "timestamp": "2026-11-03T12:15:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43303"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43302",
+    "timestamp": "2026-11-03T12:15:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43302"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43301",
+    "timestamp": "2026-11-03T12:15:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43301"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43300",
+    "timestamp": "2026-11-03T12:15:48+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43300"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43427",
+    "timestamp": "2026-11-03T12:17:09+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43427"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43426",
+    "timestamp": "2026-11-03T12:19:39+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43426"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43425",
+    "timestamp": "2026-11-03T12:19:48+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43425"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43424",
+    "timestamp": "2026-11-03T12:20:00+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43424"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43423",
+    "timestamp": "2026-11-03T12:20:09+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43423"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43422",
+    "timestamp": "2026-11-03T12:20:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43422"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43421",
+    "timestamp": "2026-11-03T12:20:33+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43421"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43420",
+    "timestamp": "2026-11-03T12:20:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43420"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43419",
+    "timestamp": "2026-11-03T12:20:52+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43419"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43418",
+    "timestamp": "2026-11-03T12:21:00+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43418"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43417",
+    "timestamp": "2026-11-03T12:21:08+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43417"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43416",
+    "timestamp": "2026-11-03T12:21:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43416"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43415",
+    "timestamp": "2026-11-03T12:21:25+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43415"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43306",
+    "timestamp": "2026-11-03T12:21:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43306"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43305",
+    "timestamp": "2026-11-03T12:21:40+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43305"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43304",
+    "timestamp": "2026-11-03T12:21:49+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43304"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43414",
+    "timestamp": "2026-11-03T12:21:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43414"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43316",
+    "timestamp": "2026-11-03T12:22:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43316"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43315",
+    "timestamp": "2026-11-03T12:22:11+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43315"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43314",
+    "timestamp": "2026-11-03T12:22:18+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43314"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43313",
+    "timestamp": "2026-11-03T12:22:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43313"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43312",
+    "timestamp": "2026-11-03T12:22:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43312"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43311",
+    "timestamp": "2026-11-03T12:22:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43311"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43310",
+    "timestamp": "2026-11-03T12:22:50+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43310"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43309",
+    "timestamp": "2026-11-03T12:24:07+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43309"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43308",
+    "timestamp": "2026-11-03T12:24:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43308"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43307",
+    "timestamp": "2026-11-03T12:25:09+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43307"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43413",
+    "timestamp": "2026-11-03T13:06:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43413"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43412",
+    "timestamp": "2026-11-03T13:06:33+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43412"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43411",
+    "timestamp": "2026-11-03T13:06:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43411"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43410",
+    "timestamp": "2026-11-03T13:06:51+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43410"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43409",
+    "timestamp": "2026-11-03T13:07:00+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43409"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43408",
+    "timestamp": "2026-11-03T13:07:08+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43408"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43407",
+    "timestamp": "2026-11-03T13:07:18+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43407"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43406",
+    "timestamp": "2026-11-03T13:07:26+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43406"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43405",
+    "timestamp": "2026-11-03T13:07:37+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43405"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43404",
+    "timestamp": "2026-11-03T13:07:45+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43404"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43403",
+    "timestamp": "2026-11-03T13:07:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43403"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43402",
+    "timestamp": "2026-11-03T13:08:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43402"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43401",
+    "timestamp": "2026-11-03T13:08:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43401"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43400",
+    "timestamp": "2026-11-03T13:08:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43400"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43399",
+    "timestamp": "2026-11-03T13:08:31+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43399"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43398",
+    "timestamp": "2026-11-03T13:08:40+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43398"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43397",
+    "timestamp": "2026-11-03T13:08:49+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43397"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43396",
+    "timestamp": "2026-11-03T13:08:58+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43396"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43395",
+    "timestamp": "2026-11-03T13:09:12+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43395"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43394",
+    "timestamp": "2026-11-03T13:09:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43394"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43393",
+    "timestamp": "2026-11-03T13:09:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43393"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43392",
+    "timestamp": "2026-11-03T13:09:36+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43392"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43391",
+    "timestamp": "2026-11-03T13:09:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43391"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43390",
+    "timestamp": "2026-11-03T13:09:53+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43390"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43389",
+    "timestamp": "2026-11-03T13:10:01+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43389"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43388",
+    "timestamp": "2026-11-03T13:10:09+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43388"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43387",
+    "timestamp": "2026-11-03T13:11:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43387"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43386",
+    "timestamp": "2026-11-03T13:11:55+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43386"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43385",
+    "timestamp": "2026-11-03T13:12:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43385"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43384",
+    "timestamp": "2026-11-03T13:12:21+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43384"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43383",
+    "timestamp": "2026-11-03T13:12:29+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43383"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43382",
+    "timestamp": "2026-11-03T13:13:03+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43382"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43381",
+    "timestamp": "2026-11-03T13:13:12+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43381"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43380",
+    "timestamp": "2026-11-03T13:13:20+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43380"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43379",
+    "timestamp": "2026-11-03T13:15:12+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43379"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43378",
+    "timestamp": "2026-11-03T13:15:20+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43378"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43377",
+    "timestamp": "2026-11-03T13:15:29+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43377"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43376",
+    "timestamp": "2026-11-03T13:15:37+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43376"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43324",
+    "timestamp": "2026-11-03T13:16:01+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43324"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43323",
+    "timestamp": "2026-11-03T13:16:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43323"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43322",
+    "timestamp": "2026-11-03T13:16:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43322"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43321",
+    "timestamp": "2026-11-03T13:16:49+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43321"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43320",
+    "timestamp": "2026-11-03T13:17:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43320"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43319",
+    "timestamp": "2026-11-03T13:17:31+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43319"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43318",
+    "timestamp": "2026-11-03T13:17:39+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43318"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43317",
+    "timestamp": "2026-11-03T13:17:48+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43317"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43375",
+    "timestamp": "2026-11-03T13:19:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43375"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43374",
+    "timestamp": "2026-11-03T13:19:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43374"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43373",
+    "timestamp": "2026-11-03T13:19:41+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43373"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43372",
+    "timestamp": "2026-11-03T13:19:49+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43372"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43371",
+    "timestamp": "2026-11-03T13:19:57+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43371"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43370",
+    "timestamp": "2026-11-03T13:20:05+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43370"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43369",
+    "timestamp": "2026-11-03T13:20:13+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43369"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43368",
+    "timestamp": "2026-11-03T13:20:23+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43368"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43367",
+    "timestamp": "2026-11-03T13:20:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43367"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43366",
+    "timestamp": "2026-11-03T13:20:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43366"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43365",
+    "timestamp": "2026-11-03T13:20:51+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43365"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43364",
+    "timestamp": "2026-11-03T13:20:59+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43364"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43363",
+    "timestamp": "2026-11-03T13:21:06+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43363"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43362",
+    "timestamp": "2026-11-03T13:21:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43362"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43361",
+    "timestamp": "2026-11-03T13:21:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43361"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43360",
+    "timestamp": "2026-11-03T13:21:31+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43360"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43359",
+    "timestamp": "2026-11-03T13:21:39+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43359"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43358",
+    "timestamp": "2026-11-03T13:21:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43358"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43357",
+    "timestamp": "2026-11-03T13:22:20+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43357"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43356",
+    "timestamp": "2026-11-03T13:22:31+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43356"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43355",
+    "timestamp": "2026-11-03T13:22:45+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43355"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43354",
+    "timestamp": "2026-11-03T13:22:55+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43354"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43353",
+    "timestamp": "2026-11-03T13:23:07+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43353"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43352",
+    "timestamp": "2026-11-03T13:23:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43352"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43351",
+    "timestamp": "2026-11-03T13:23:27+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43351"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43350",
+    "timestamp": "2026-11-03T13:23:38+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43350"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43349",
+    "timestamp": "2026-11-03T13:24:01+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43349"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43348",
+    "timestamp": "2026-11-03T13:24:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43348"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43347",
+    "timestamp": "2026-11-03T13:24:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43347"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43346",
+    "timestamp": "2026-11-03T13:24:34+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43346"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43345",
+    "timestamp": "2026-11-03T13:24:46+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43345"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43344",
+    "timestamp": "2026-11-03T13:24:59+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43344"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43343",
+    "timestamp": "2026-11-03T13:25:11+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43343"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43342",
+    "timestamp": "2026-11-03T13:27:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43342"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43341",
+    "timestamp": "2026-11-03T13:27:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43341"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43340",
+    "timestamp": "2026-11-03T13:28:12+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43340"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43339",
+    "timestamp": "2026-11-03T13:28:36+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43339"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43338",
+    "timestamp": "2026-11-03T13:29:03+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43338"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43337",
+    "timestamp": "2026-11-03T13:29:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43337"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43336",
+    "timestamp": "2026-11-03T13:29:50+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43336"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43335",
+    "timestamp": "2026-11-03T13:30:29+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43335"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43334",
+    "timestamp": "2026-11-03T13:30:51+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43334"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43333",
+    "timestamp": "2026-11-03T13:31:15+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43333"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43332",
+    "timestamp": "2026-11-03T13:31:52+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43332"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43331",
+    "timestamp": "2026-11-03T13:32:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43331"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43330",
+    "timestamp": "2026-11-03T13:32:38+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43330"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43329",
+    "timestamp": "2026-11-03T13:33:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43329"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43328",
+    "timestamp": "2026-11-03T13:33:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43328"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43327",
+    "timestamp": "2026-11-03T13:34:01+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43327"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43326",
+    "timestamp": "2026-11-03T13:34:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43326"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43325",
+    "timestamp": "2026-11-03T13:34:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43325"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43479",
+    "timestamp": "2026-11-03T13:35:07+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43479"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43478",
+    "timestamp": "2026-11-03T13:35:52+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43478"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43477",
+    "timestamp": "2026-11-03T13:36:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43477"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43476",
+    "timestamp": "2026-11-03T13:36:45+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43476"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43475",
+    "timestamp": "2026-11-03T13:37:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43475"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43474",
+    "timestamp": "2026-11-03T13:37:30+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43474"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43473",
+    "timestamp": "2026-11-03T13:37:51+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43473"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43472",
+    "timestamp": "2026-11-03T13:38:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43472"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43471",
+    "timestamp": "2026-11-03T13:38:40+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43471"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43470",
+    "timestamp": "2026-11-03T13:39:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43470"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43469",
+    "timestamp": "2026-11-03T13:39:24+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43469"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43468",
+    "timestamp": "2026-11-03T13:40:06+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43468"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43467",
+    "timestamp": "2026-11-03T13:40:29+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43467"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43466",
+    "timestamp": "2026-11-03T13:40:54+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43466"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43465",
+    "timestamp": "2026-11-03T13:41:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43465"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43464",
+    "timestamp": "2026-11-03T13:41:43+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43464"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43463",
+    "timestamp": "2026-11-03T13:42:05+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43463"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43462",
+    "timestamp": "2026-11-03T13:42:35+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43462"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43461",
+    "timestamp": "2026-11-03T13:50:52+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43461"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43460",
+    "timestamp": "2026-11-03T13:51:30+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43460"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43459",
+    "timestamp": "2026-11-03T13:52:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43459"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43457",
+    "timestamp": "2026-11-03T13:52:46+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43457"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43456",
+    "timestamp": "2026-11-03T13:53:56+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43456"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43455",
+    "timestamp": "2026-11-03T13:54:46+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43455"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43454",
+    "timestamp": "2026-11-03T13:55:39+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43454"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43453",
+    "timestamp": "2026-11-03T13:55:42+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43453"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43452",
+    "timestamp": "2026-11-03T17:07:53+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43452"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43451",
+    "timestamp": "2026-11-03T17:09:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43451"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43450",
+    "timestamp": "2026-11-03T17:19:16+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43450"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43449",
+    "timestamp": "2026-11-03T17:27:01+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43449"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43445",
+    "timestamp": "2026-11-03T17:58:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43445"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43448",
+    "timestamp": "2026-11-03T19:38:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43448"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43447",
+    "timestamp": "2026-11-03T21:11:17+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43447"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43446",
+    "timestamp": "2026-11-03T21:11:33+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43446"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43444",
+    "timestamp": "2026-11-03T21:59:28+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43444"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43443",
+    "timestamp": "2026-11-03T22:25:00+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43443"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43442",
+    "timestamp": "2026-11-03T23:04:10+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43442"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43441",
+    "timestamp": "2026-11-03T23:36:04+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43441"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43440",
+    "timestamp": "2026-11-03T23:51:08+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43440"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43439",
+    "timestamp": "2026-11-03T23:51:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43439"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43438",
+    "timestamp": "2026-11-04T00:00:40+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43438"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43480",
+    "timestamp": "2026-11-04T03:37:43+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43480"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43481",
+    "timestamp": "2026-11-04T04:35:27+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43481"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43482",
+    "timestamp": "2026-11-04T04:38:14+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43482"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43483",
+    "timestamp": "2026-11-04T04:40:22+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43483"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43484",
+    "timestamp": "2026-11-04T04:52:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43484"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43485",
+    "timestamp": "2026-11-04T17:05:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43485"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43486",
+    "timestamp": "2026-11-04T17:27:54+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43486"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43487",
+    "timestamp": "2026-11-04T23:33:47+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43487"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43488",
+    "timestamp": "2026-11-05T09:52:38+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43488"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43489",
+    "timestamp": "2026-11-05T13:22:19+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43489"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43490",
+    "timestamp": "2026-11-05T13:40:44+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43490"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43491",
+    "timestamp": "2026-11-05T23:18:52+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43491"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43492",
+    "timestamp": "2026-11-06T00:02:31+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43492"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43493",
+    "timestamp": "2026-11-06T00:14:11+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43493"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43494",
+    "timestamp": "2026-11-06T11:48:32+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43494"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43495",
+    "timestamp": "2026-11-06T12:01:50+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43495"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43496",
+    "timestamp": "2026-11-06T18:05:27+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43496"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43497",
+    "timestamp": "2026-11-06T18:09:41+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43497"
+  },
+  {
+    "id": "https://www.trumpstruth.org/statuses/43498",
+    "timestamp": "2026-11-06T18:51:30+00:00",
+    "url": "https://www.trumpstruth.org/statuses/43498"
+  }
+]
