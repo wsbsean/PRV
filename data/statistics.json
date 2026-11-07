@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:19:02.896125+00:00",
+  "generated_at": "2026-11-07T13:22:38.651546+00:00",
   "account": {
     "name": "Donald Trump",
     "handle": "realDonaldTrump",
@@ -11,18 +11,18 @@
     "avg_week": 1.7444444444444445,
     "avg_12h": 5.588888888888889,
     "avg_6h": 5.588888888888889,
-    "avg_hour": 2.2666666666666666
+    "avg_hour": 0.35555555555555557
   },
   "summary": {
     "12h": {
-      "current": 4,
+      "current": 3,
       "baseline": 5.588888888888889,
-      "pct": -28.42942345924453
+      "pct": -46.3220675944334
     },
     "24h": {
-      "current": 8,
+      "current": 6,
       "baseline": 5.555555555555555,
-      "pct": 44.00000000000001
+      "pct": 8.000000000000004
     },
     "7d": {
       "current": 503,
@@ -34,120 +34,116 @@
     "1h": [
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
-      },
-      {
-        "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 2,
-        "baseline": 0.3333333333333333
-      },
-      {
-        "current": 0,
-        "baseline": 0.3333333333333333
-      },
-      {
-        "current": 0,
-        "baseline": 0.3333333333333333
-      },
-      {
-        "current": 0,
-        "baseline": 0.3333333333333333
-      },
-      {
-        "current": 0,
-        "baseline": 0.3333333333333333
-      },
-      {
-        "current": 0,
-        "baseline": 0.3333333333333333
-      },
-      {
-        "current": 2,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 1,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 3,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
       },
       {
         "current": 0,
-        "baseline": 0.3333333333333333
+        "baseline": 0.25
+      },
+      {
+        "current": 0,
+        "baseline": 0.25
+      },
+      {
+        "current": 0,
+        "baseline": 0.25
+      },
+      {
+        "current": 0,
+        "baseline": 0.25
+      },
+      {
+        "current": 0,
+        "baseline": 0.25
+      },
+      {
+        "current": 0,
+        "baseline": 0.25
+      },
+      {
+        "current": 0,
+        "baseline": 0.25
+      },
+      {
+        "current": 0,
+        "baseline": 0.25
       }
     ],
     "6h": [
       {
+        "current": 30,
+        "baseline": 16.958333333333332
+      },
+      {
+        "current": 31,
+        "baseline": 16.958333333333332
+      },
+      {
+        "current": 3,
+        "baseline": 16.958333333333332
+      },
+      {
         "current": 0,
-        "baseline": 16.958333333333332
-      },
-      {
-        "current": 17,
-        "baseline": 16.958333333333332
-      },
-      {
-        "current": 44,
-        "baseline": 16.958333333333332
-      },
-      {
-        "current": 1,
-        "baseline": 16.958333333333332
-      },
-      {
-        "current": 2,
         "baseline": 16.958333333333332
       },
       {
@@ -155,19 +151,19 @@
         "baseline": 16.958333333333332
       },
       {
-        "current": 89,
+        "current": 99,
         "baseline": 16.958333333333332
       },
       {
-        "current": 14,
+        "current": 4,
         "baseline": 16.958333333333332
       },
       {
-        "current": 18,
+        "current": 110,
         "baseline": 16.958333333333332
       },
       {
-        "current": 154,
+        "current": 62,
         "baseline": 16.958333333333332
       },
       {
@@ -195,11 +191,11 @@
         "baseline": 16.958333333333332
       },
       {
-        "current": 1,
+        "current": 2,
         "baseline": 16.958333333333332
       },
       {
-        "current": 2,
+        "current": 1,
         "baseline": 16.958333333333332
       },
       {
@@ -215,15 +211,19 @@
         "baseline": 16.958333333333332
       },
       {
-        "current": 2,
+        "current": 3,
         "baseline": 16.958333333333332
       },
       {
-        "current": 1,
+        "current": 0,
         "baseline": 16.958333333333332
       },
       {
         "current": 3,
+        "baseline": 16.958333333333332
+      },
+      {
+        "current": 0,
         "baseline": 16.958333333333332
       }
     ],
@@ -269,35 +269,7 @@
         "baseline": 20.958333333333332
       },
       {
-        "current": 1,
-        "baseline": 20.958333333333332
-      },
-      {
-        "current": 95,
-        "baseline": 20.958333333333332
-      },
-      {
-        "current": 17,
-        "baseline": 20.958333333333332
-      },
-      {
-        "current": 45,
-        "baseline": 20.958333333333332
-      },
-      {
-        "current": 38,
-        "baseline": 20.958333333333332
-      },
-      {
-        "current": 103,
-        "baseline": 20.958333333333332
-      },
-      {
-        "current": 172,
-        "baseline": 20.958333333333332
-      },
-      {
-        "current": 15,
+        "current": 94,
         "baseline": 20.958333333333332
       },
       {
@@ -305,7 +277,43 @@
         "baseline": 20.958333333333332
       },
       {
-        "current": 1,
+        "current": 61,
+        "baseline": 20.958333333333332
+      },
+      {
+        "current": 3,
+        "baseline": 20.958333333333332
+      },
+      {
+        "current": 135,
+        "baseline": 20.958333333333332
+      },
+      {
+        "current": 114,
+        "baseline": 20.958333333333332
+      },
+      {
+        "current": 72,
+        "baseline": 20.958333333333332
+      },
+      {
+        "current": 5,
+        "baseline": 20.958333333333332
+      },
+      {
+        "current": 3,
+        "baseline": 20.958333333333332
+      },
+      {
+        "current": 2,
+        "baseline": 20.958333333333332
+      },
+      {
+        "current": 4,
+        "baseline": 20.958333333333332
+      },
+      {
+        "current": 2,
         "baseline": 20.958333333333332
       },
       {
@@ -314,14 +322,6 @@
       },
       {
         "current": 3,
-        "baseline": 20.958333333333332
-      },
-      {
-        "current": 4,
-        "baseline": 20.958333333333332
-      },
-      {
-        "current": 4,
         "baseline": 20.958333333333332
       }
     ],
@@ -399,19 +399,19 @@
         "baseline": 20.958333333333332
       },
       {
-        "current": 62,
+        "current": 64,
         "baseline": 20.958333333333332
       },
       {
-        "current": 141,
+        "current": 249,
         "baseline": 20.958333333333332
       },
       {
-        "current": 187,
+        "current": 77,
         "baseline": 20.958333333333332
       },
       {
-        "current": 3,
+        "current": 5,
         "baseline": 20.958333333333332
       },
       {
@@ -419,7 +419,7 @@
         "baseline": 20.958333333333332
       },
       {
-        "current": 8,
+        "current": 6,
         "baseline": 20.958333333333332
       }
     ],
