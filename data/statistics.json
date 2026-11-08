@@ -1,914 +1,914 @@
 {
-  "generated_at": "2026-11-08T01:38:35.038862+00:00",
+  "generated_at": "2026-11-08T08:21:44.983170+00:00",
   "account": {
     "name": "Donald Trump",
     "handle": "realDonaldTrump",
     "platform_label": "Truth Social"
   },
-  "history_days": 8,
+  "history_days": 9,
   "baseline": {
     "avg_day": 5.833333333333333,
     "avg_week": 1.7444444444444445,
-    "avg_12h": 5.833333333333333,
-    "avg_6h": 5.833333333333333,
-    "avg_hour": 0.43333333333333335
+    "avg_12h": 5.844444444444444,
+    "avg_6h": 5.844444444444444,
+    "avg_hour": 0.4444444444444444
   },
   "summary": {
     "12h": {
-      "current": 22,
-      "baseline": 5.833333333333333,
-      "pct": 277.14285714285717
+      "current": 8,
+      "baseline": 5.844444444444444,
+      "pct": 36.88212927756655
     },
     "24h": {
-      "current": 25,
+      "current": 23,
       "baseline": 5.833333333333333,
-      "pct": 328.5714285714286
+      "pct": 294.28571428571433
     },
     "7d": {
-      "current": 431,
+      "current": 430,
       "baseline": 1.7444444444444445,
-      "pct": 24607.006369426752
+      "pct": 24549.68152866242
     }
   },
   "series": {
     "1h": [
       {
         "current": 0,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
       },
       {
         "current": 3,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
       },
       {
         "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
       },
       {
         "current": 2,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
       },
       {
         "current": 1,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 2,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 1,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
       },
       {
         "current": 3,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
       },
       {
         "current": 6,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
       },
       {
         "current": 0,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
       },
       {
         "current": 7,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
       },
       {
         "current": 0,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
       },
       {
         "current": 0,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
       },
       {
         "current": 0,
-        "baseline": 1.0416666666666667
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 1,
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 0.9583333333333334
       }
     ],
     "6h": [
       {
-        "current": 3,
-        "baseline": 15.333333333333334
-      },
-      {
         "current": 0,
-        "baseline": 15.333333333333334
+        "baseline": 15.25
       },
       {
-        "current": 36,
-        "baseline": 15.333333333333334
+        "current": 37,
+        "baseline": 15.25
       },
       {
-        "current": 99,
-        "baseline": 15.333333333333334
+        "current": 98,
+        "baseline": 15.25
       },
       {
         "current": 4,
-        "baseline": 15.333333333333334
+        "baseline": 15.25
       },
       {
-        "current": 149,
-        "baseline": 15.333333333333334
+        "current": 167,
+        "baseline": 15.25
       },
       {
-        "current": 23,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 10,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 5,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 0,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 2,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 1,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 0,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 2,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 1,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 3,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 0,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 2,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 3,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 0,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 3,
-        "baseline": 15.333333333333334
-      },
-      {
-        "current": 0,
-        "baseline": 15.333333333333334
+        "current": 6,
+        "baseline": 15.25
       },
       {
         "current": 9,
-        "baseline": 15.333333333333334
+        "baseline": 15.25
       },
       {
-        "current": 13,
-        "baseline": 15.333333333333334
+        "current": 5,
+        "baseline": 15.25
+      },
+      {
+        "current": 0,
+        "baseline": 15.25
+      },
+      {
+        "current": 2,
+        "baseline": 15.25
+      },
+      {
+        "current": 1,
+        "baseline": 15.25
+      },
+      {
+        "current": 0,
+        "baseline": 15.25
+      },
+      {
+        "current": 3,
+        "baseline": 15.25
+      },
+      {
+        "current": 0,
+        "baseline": 15.25
+      },
+      {
+        "current": 3,
+        "baseline": 15.25
+      },
+      {
+        "current": 0,
+        "baseline": 15.25
+      },
+      {
+        "current": 2,
+        "baseline": 15.25
+      },
+      {
+        "current": 3,
+        "baseline": 15.25
+      },
+      {
+        "current": 0,
+        "baseline": 15.25
+      },
+      {
+        "current": 3,
+        "baseline": 15.25
+      },
+      {
+        "current": 0,
+        "baseline": 15.25
+      },
+      {
+        "current": 15,
+        "baseline": 15.25
+      },
+      {
+        "current": 7,
+        "baseline": 15.25
+      },
+      {
+        "current": 1,
+        "baseline": 15.25
       }
     ],
     "12h": [
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
-        "current": 0,
-        "baseline": 21.875
-      },
-      {
-        "current": 94,
-        "baseline": 21.875
-      },
-      {
-        "current": 2,
-        "baseline": 21.875
-      },
-      {
-        "current": 61,
-        "baseline": 21.875
-      },
-      {
-        "current": 3,
-        "baseline": 21.875
-      },
-      {
-        "current": 135,
-        "baseline": 21.875
-      },
-      {
-        "current": 153,
-        "baseline": 21.875
-      },
-      {
-        "current": 33,
-        "baseline": 21.875
-      },
-      {
-        "current": 5,
-        "baseline": 21.875
-      },
-      {
-        "current": 3,
-        "baseline": 21.875
-      },
-      {
-        "current": 2,
-        "baseline": 21.875
-      },
-      {
-        "current": 4,
-        "baseline": 21.875
-      },
-      {
-        "current": 2,
-        "baseline": 21.875
-      },
-      {
-        "current": 3,
-        "baseline": 21.875
-      },
-      {
-        "current": 3,
-        "baseline": 21.875
+        "current": 74,
+        "baseline": 21.916666666666668
       },
       {
         "current": 22,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 60,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 4,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 37,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 102,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 173,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 14,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 2,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 1,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 3,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 3,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 5,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 3,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 15,
+        "baseline": 21.916666666666668
+      },
+      {
+        "current": 8,
+        "baseline": 21.916666666666668
       }
     ],
     "24h": [
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
         "current": 0,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
-        "current": 94,
-        "baseline": 21.875
+        "current": 96,
+        "baseline": 21.916666666666668
       },
       {
-        "current": 63,
-        "baseline": 21.875
+        "current": 64,
+        "baseline": 21.916666666666668
       },
       {
-        "current": 138,
-        "baseline": 21.875
+        "current": 139,
+        "baseline": 21.916666666666668
       },
       {
-        "current": 186,
-        "baseline": 21.875
+        "current": 187,
+        "baseline": 21.916666666666668
       },
       {
-        "current": 8,
-        "baseline": 21.875
+        "current": 3,
+        "baseline": 21.916666666666668
       },
       {
         "current": 6,
-        "baseline": 21.875
+        "baseline": 21.916666666666668
       },
       {
-        "current": 5,
-        "baseline": 21.875
+        "current": 8,
+        "baseline": 21.916666666666668
       },
       {
-        "current": 25,
-        "baseline": 21.875
+        "current": 23,
+        "baseline": 21.916666666666668
       }
     ],
     "3d": [
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
-        "current": 157,
-        "baseline": 17.5
+        "current": 160,
+        "baseline": 17.533333333333335
       },
       {
-        "current": 332,
-        "baseline": 17.5
+        "current": 329,
+        "baseline": 17.533333333333335
       },
       {
-        "current": 36,
-        "baseline": 17.5
+        "current": 37,
+        "baseline": 17.533333333333335
       }
     ],
     "7d": [
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
-        "current": 94,
-        "baseline": 17.5
+        "current": 96,
+        "baseline": 17.533333333333335
       },
       {
-        "current": 431,
-        "baseline": 17.5
+        "current": 430,
+        "baseline": 17.533333333333335
       }
     ],
     "30d": [
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
-        "current": 525,
-        "baseline": 17.5
+        "current": 526,
+        "baseline": 17.533333333333335
       }
     ],
     "90d": [
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
         "current": 0,
-        "baseline": 17.5
+        "baseline": 17.533333333333335
       },
       {
-        "current": 525,
-        "baseline": 17.5
+        "current": 526,
+        "baseline": 17.533333333333335
       }
     ]
   },
@@ -916,29 +916,20 @@
     {
       "label": "HIGH ACTIVITY",
       "level": "high",
-      "window": "12h",
-      "current": 22,
-      "low": 2.9,
-      "high": 8.8,
-      "pct": 277.14285714285717
-    },
-    {
-      "label": "HIGH ACTIVITY",
-      "level": "high",
       "window": "24h",
-      "current": 25,
+      "current": 23,
       "low": 2.9,
       "high": 8.8,
-      "pct": 328.5714285714286
+      "pct": 294.28571428571433
     },
     {
       "label": "HIGH ACTIVITY",
       "level": "high",
       "window": "7d",
-      "current": 431,
+      "current": 430,
       "low": 0.9,
       "high": 2.6,
-      "pct": 24607.006369426752
+      "pct": 24549.68152866242
     }
   ]
 }
