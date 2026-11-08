@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:08:16.179514+00:00",
+  "generated_at": "2026-11-08T01:38:35.038862+00:00",
   "account": {
     "name": "Donald Trump",
     "handle": "realDonaldTrump",
@@ -7,11 +7,11 @@
   },
   "history_days": 8,
   "baseline": {
-    "avg_day": 5.555555555555555,
+    "avg_day": 5.833333333333333,
     "avg_week": 1.7444444444444445,
     "avg_12h": 5.833333333333333,
     "avg_6h": 5.833333333333333,
-    "avg_hour": 0.4777777777777778
+    "avg_hour": 0.43333333333333335
   },
   "summary": {
     "12h": {
@@ -21,13 +21,13 @@
     },
     "24h": {
       "current": 25,
-      "baseline": 5.555555555555555,
-      "pct": 350.0
+      "baseline": 5.833333333333333,
+      "pct": 328.5714285714286
     },
     "7d": {
-      "current": 433,
+      "current": 431,
       "baseline": 1.7444444444444445,
-      "pct": 24721.65605095541
+      "pct": 24607.006369426752
     }
   },
   "series": {
@@ -37,22 +37,6 @@
         "baseline": 1.0416666666666667
       },
       {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
-        "current": 0,
-        "baseline": 1.0416666666666667
-      },
-      {
         "current": 3,
         "baseline": 1.0416666666666667
       },
@@ -97,7 +81,11 @@
         "baseline": 1.0416666666666667
       },
       {
-        "current": 3,
+        "current": 2,
+        "baseline": 1.0416666666666667
+      },
+      {
+        "current": 1,
         "baseline": 1.0416666666666667
       },
       {
@@ -127,104 +115,116 @@
       {
         "current": 7,
         "baseline": 1.0416666666666667
+      },
+      {
+        "current": 0,
+        "baseline": 1.0416666666666667
+      },
+      {
+        "current": 0,
+        "baseline": 1.0416666666666667
+      },
+      {
+        "current": 0,
+        "baseline": 1.0416666666666667
       }
     ],
     "6h": [
       {
-        "current": 2,
-        "baseline": 15.375
-      },
-      {
-        "current": 2,
-        "baseline": 15.375
-      },
-      {
-        "current": 19,
-        "baseline": 15.375
-      },
-      {
-        "current": 48,
-        "baseline": 15.375
-      },
-      {
-        "current": 69,
-        "baseline": 15.375
-      },
-      {
         "current": 3,
-        "baseline": 15.375
+        "baseline": 15.333333333333334
       },
       {
-        "current": 167,
-        "baseline": 15.375
+        "current": 0,
+        "baseline": 15.333333333333334
       },
       {
-        "current": 9,
-        "baseline": 15.375
+        "current": 36,
+        "baseline": 15.333333333333334
       },
       {
-        "current": 7,
-        "baseline": 15.375
+        "current": 99,
+        "baseline": 15.333333333333334
       },
       {
         "current": 4,
-        "baseline": 15.375
+        "baseline": 15.333333333333334
+      },
+      {
+        "current": 149,
+        "baseline": 15.333333333333334
+      },
+      {
+        "current": 23,
+        "baseline": 15.333333333333334
+      },
+      {
+        "current": 10,
+        "baseline": 15.333333333333334
+      },
+      {
+        "current": 5,
+        "baseline": 15.333333333333334
       },
       {
         "current": 0,
-        "baseline": 15.375
+        "baseline": 15.333333333333334
       },
       {
         "current": 2,
-        "baseline": 15.375
+        "baseline": 15.333333333333334
       },
       {
         "current": 1,
-        "baseline": 15.375
+        "baseline": 15.333333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 15.333333333333334
+      },
+      {
+        "current": 2,
+        "baseline": 15.333333333333334
       },
       {
         "current": 1,
-        "baseline": 15.375
+        "baseline": 15.333333333333334
+      },
+      {
+        "current": 3,
+        "baseline": 15.333333333333334
+      },
+      {
+        "current": 0,
+        "baseline": 15.333333333333334
       },
       {
         "current": 2,
-        "baseline": 15.375
+        "baseline": 15.333333333333334
+      },
+      {
+        "current": 3,
+        "baseline": 15.333333333333334
       },
       {
         "current": 0,
-        "baseline": 15.375
+        "baseline": 15.333333333333334
       },
       {
         "current": 3,
-        "baseline": 15.375
+        "baseline": 15.333333333333334
       },
       {
         "current": 0,
-        "baseline": 15.375
+        "baseline": 15.333333333333334
       },
       {
-        "current": 2,
-        "baseline": 15.375
+        "current": 9,
+        "baseline": 15.333333333333334
       },
       {
-        "current": 3,
-        "baseline": 15.375
-      },
-      {
-        "current": 3,
-        "baseline": 15.375
-      },
-      {
-        "current": 0,
-        "baseline": 15.375
-      },
-      {
-        "current": 3,
-        "baseline": 15.375
-      },
-      {
-        "current": 19,
-        "baseline": 15.375
+        "current": 13,
+        "baseline": 15.333333333333334
       }
     ],
     "12h": [
@@ -265,35 +265,7 @@
         "baseline": 21.875
       },
       {
-        "current": 92,
-        "baseline": 21.875
-      },
-      {
-        "current": 4,
-        "baseline": 21.875
-      },
-      {
-        "current": 60,
-        "baseline": 21.875
-      },
-      {
-        "current": 4,
-        "baseline": 21.875
-      },
-      {
-        "current": 67,
-        "baseline": 21.875
-      },
-      {
-        "current": 72,
-        "baseline": 21.875
-      },
-      {
-        "current": 176,
-        "baseline": 21.875
-      },
-      {
-        "current": 11,
+        "current": 94,
         "baseline": 21.875
       },
       {
@@ -301,7 +273,39 @@
         "baseline": 21.875
       },
       {
+        "current": 61,
+        "baseline": 21.875
+      },
+      {
+        "current": 3,
+        "baseline": 21.875
+      },
+      {
+        "current": 135,
+        "baseline": 21.875
+      },
+      {
+        "current": 153,
+        "baseline": 21.875
+      },
+      {
+        "current": 33,
+        "baseline": 21.875
+      },
+      {
+        "current": 5,
+        "baseline": 21.875
+      },
+      {
+        "current": 3,
+        "baseline": 21.875
+      },
+      {
         "current": 2,
+        "baseline": 21.875
+      },
+      {
+        "current": 4,
         "baseline": 21.875
       },
       {
@@ -310,10 +314,6 @@
       },
       {
         "current": 3,
-        "baseline": 21.875
-      },
-      {
-        "current": 5,
         "baseline": 21.875
       },
       {
@@ -391,31 +391,31 @@
         "baseline": 21.875
       },
       {
-        "current": 92,
+        "current": 94,
         "baseline": 21.875
       },
       {
-        "current": 64,
+        "current": 63,
         "baseline": 21.875
       },
       {
-        "current": 71,
+        "current": 138,
         "baseline": 21.875
       },
       {
-        "current": 248,
-        "baseline": 21.875
-      },
-      {
-        "current": 13,
-        "baseline": 21.875
-      },
-      {
-        "current": 4,
+        "current": 186,
         "baseline": 21.875
       },
       {
         "current": 8,
+        "baseline": 21.875
+      },
+      {
+        "current": 6,
+        "baseline": 21.875
+      },
+      {
+        "current": 5,
         "baseline": 21.875
       },
       {
@@ -533,7 +533,7 @@
         "baseline": 17.5
       },
       {
-        "current": 156,
+        "current": 157,
         "baseline": 17.5
       },
       {
@@ -541,7 +541,7 @@
         "baseline": 17.5
       },
       {
-        "current": 37,
+        "current": 36,
         "baseline": 17.5
       }
     ],
@@ -659,11 +659,11 @@
         "baseline": 17.5
       },
       {
-        "current": 92,
+        "current": 94,
         "baseline": 17.5
       },
       {
-        "current": 433,
+        "current": 431,
         "baseline": 17.5
       }
     ],
@@ -927,18 +927,18 @@
       "level": "high",
       "window": "24h",
       "current": 25,
-      "low": 2.8,
-      "high": 8.3,
-      "pct": 350.0
+      "low": 2.9,
+      "high": 8.8,
+      "pct": 328.5714285714286
     },
     {
       "label": "HIGH ACTIVITY",
       "level": "high",
       "window": "7d",
-      "current": 433,
+      "current": 431,
       "low": 0.9,
       "high": 2.6,
-      "pct": 24721.65605095541
+      "pct": 24607.006369426752
     }
   ]
 }
