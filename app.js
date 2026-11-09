@@ -1,6 +1,20 @@
 let DATA=null, range="12h";
 const $=s=>document.querySelector(s);
-async function load(){try{DATA=await fetch("data/statistics.json?"+Date.now()).then(r=>r.json());render()}catch(e){$("#status").textContent="No data yet. Run the GitHub Action to collect the first dataset."}}
+async function load(){
+ try{
+  const [localRes, apiRes] = await Promise.allSettled([
+   fetch("data/statistics.json?t="+Date.now(),{cache:"no-store"}).then(r=>r.ok?r.json():null),
+   fetch("https://api.github.com/repos/wsbsean/PRV/contents/data/statistics.json?t="+Date.now(),{headers:{Accept:"application/vnd.github.raw+json"},cache:"no-store"}).then(r=>r.ok?r.json():null)
+  ]);
+  const a = localRes.status==="fulfilled"?localRes.value:null;
+  const b = apiRes.status==="fulfilled"?apiRes.value:null;
+  DATA = (a && b) ? (new Date(b.generated_at) >= new Date(a.generated_at) ? b : a) : (b || a);
+  if(!DATA) throw new Error("No data");
+  render();
+ }catch(e){
+  $("#status").textContent="No data yet. Run the GitHub Action to collect the first dataset.";
+ }
+}
 function render(){
  const a=DATA.account, s=DATA.summary;
  $("#accountSub").textContent=`${a.platform_label} · @${a.handle}`;
@@ -23,4 +37,4 @@ function draw(){
  line("baseline","#5f6877");line("current","#eef2f7");
 }
 document.querySelectorAll(".ranges button").forEach(b=>b.onclick=()=>{document.querySelectorAll(".ranges button").forEach(x=>x.classList.remove("selected"));b.classList.add("selected");range=b.dataset.range;draw()});
-load();window.addEventListener("resize",draw);
+load();setInterval(load,120000);window.addEventListener("resize",draw);

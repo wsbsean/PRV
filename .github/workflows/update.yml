@@ -1,13 +1,23 @@
 name: Update PostPulse data
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/15 * * * *"
+  push:
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -20,5 +30,17 @@ jobs:
           git config user.name "postpulse-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/posts.json data/statistics.json
-          git diff --cached --quiet || git commit -m "Update activity data"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update activity data [skip ci]"
+            git pull --rebase origin main
+            git push
+          fi
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
