@@ -4,10 +4,10 @@ async function load(){try{DATA=await fetch("data/statistics.json?"+Date.now()).t
 function render(){
  const a=DATA.account, s=DATA.summary;
  $("#accountSub").textContent=`${a.platform_label} · @${a.handle}`;
- $("#updated").textContent=`Updated ${new Date(DATA.generated_at).toLocaleString()}`;
- $("#status").textContent=`Current data covers ${DATA.history_days} days of collected activity. Baselines use historical posting counts for comparable periods.`;
- $("#cards").innerHTML=card("Last 12 hours",s["12h"].current,s["12h"].baseline,s["12h"].pct)+card("Today",s["24h"].current,s["24h"].baseline,s["24h"].pct)+card("This week",s["7d"].current,s["7d"].baseline,s["7d"].pct);
- $("#baseline").innerHTML=row("Average posts/day",DATA.baseline.avg_day.toFixed(1))+row("Average posts/week",DATA.baseline.avg_week.toFixed(1))+row("Average posts/12 hours",DATA.baseline.avg_12h.toFixed(1))+row("Average posts/6 hours",DATA.baseline.avg_6h.toFixed(1))+row("Average posts/hour",DATA.baseline.avg_hour.toFixed(2))+row("History",DATA.history_days+" days");
+ $("#updated").textContent=`Updated ${new Date(DATA.generated_at).toLocaleString("en-US",{timeZone:"America/New_York"})} ET`;
+ $("#status").textContent=`Current data covers ${DATA.history_days}-day historical baseline (${DATA.total_posts||""} posts, US Eastern Time). Today counts posts since 12:00 AM ET compared with the 90-day average for this exact time of day.`;
+ $("#cards").innerHTML=card("Last 12 hours",s["12h"].current,s["12h"].baseline,s["12h"].pct)+card("Today (since 12am ET)",s["24h"].current,s["24h"].baseline,s["24h"].pct)+card("Last 7 days",s["7d"].current,s["7d"].baseline,s["7d"].pct);
+ $("#baseline").innerHTML=row("Average posts/day (90d)",DATA.baseline.avg_day.toFixed(1))+row("Average posts/week (90d)",DATA.baseline.avg_week.toFixed(1))+row("Average posts/12 hours",DATA.baseline.avg_12h.toFixed(1))+row("Average posts/6 hours",DATA.baseline.avg_6h.toFixed(1))+row("Average posts/hour",DATA.baseline.avg_hour.toFixed(2))+row("Baseline window",DATA.history_days+" days (ET)");
  $("#alerts").innerHTML=DATA.alerts.length?DATA.alerts.map(x=>`<div class="alert"><strong class="${x.level}">${x.label}</strong><small>${x.window}: ${x.current} posts · expected ${x.low}–${x.high} · ${x.pct>0?"+":""}${x.pct.toFixed(0)}%</small></div>`).join(""):`<div class="alert"><strong class="normalc">No unusual activity</strong><small>Current windows are inside their expected ranges.</small></div>`;
  draw();
 }
