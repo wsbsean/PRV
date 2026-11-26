@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:51:21.916142-05:00",
+  "generated_at": "2026-11-25T21:05:15.946763-05:00",
   "timezone": "America/New_York (ET)",
   "account": {
     "name": "Donald Trump",
@@ -8,7 +8,7 @@
   },
   "history_days": 90,
   "total_days_collected": 128,
-  "total_posts": 3524,
+  "total_posts": 3527,
   "baseline": {
     "avg_day": 27.1,
     "avg_week": 189.70000000000002,
@@ -18,64 +18,24 @@
   },
   "summary": {
     "12h": {
-      "current": 2,
-      "baseline": 10.855555555555556,
-      "pct": -81.57625383828045
+      "current": 5,
+      "baseline": 18.38888888888889,
+      "pct": -72.80966767371602
     },
     "24h": {
-      "current": 2,
-      "baseline": 12.055555555555555,
+      "current": 5,
+      "baseline": 24.666666666666668,
       "full_day_baseline": 27.1,
-      "pct": -83.41013824884793
+      "pct": -79.72972972972973
     },
     "7d": {
-      "current": 110,
+      "current": 113,
       "baseline": 189.70000000000002,
-      "pct": -42.013705851344234
+      "pct": -40.432261465471804
     }
   },
   "series": {
     "1h": [
-      {
-        "current": 0,
-        "baseline": 2.23,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 2.14,
-        "label": "03:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 1.86,
-        "label": "04:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 1.22,
-        "label": "05:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 2.83,
-        "label": "06:00 PM ET"
-      },
-      {
-        "current": 3,
-        "baseline": 0.96,
-        "label": "07:00 PM ET"
-      },
-      {
-        "current": 1,
-        "baseline": 1.11,
-        "label": "08:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 0.76,
-        "label": "09:00 PM ET"
-      },
       {
         "current": 0,
         "baseline": 1.14,
@@ -153,252 +113,292 @@
       },
       {
         "current": 0,
-        "baseline": 0.94,
+        "baseline": 1.08,
         "label": "01:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 2.23,
+        "label": "02:00 PM ET"
+      },
+      {
+        "current": 3,
+        "baseline": 2.13,
+        "label": "03:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 1.86,
+        "label": "04:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 1.22,
+        "label": "05:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 2.83,
+        "label": "06:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 0.99,
+        "label": "07:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 1.12,
+        "label": "08:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 0.09,
+        "label": "09:00 PM ET"
       }
     ],
     "6h": [
       {
-        "current": 14,
-        "baseline": 10.9,
-        "label": "02:00 PM ET"
+        "current": 0,
+        "baseline": 3.52,
+        "label": "10:00 PM ET"
       },
       {
         "current": 1,
-        "baseline": 5.23,
-        "label": "08:00 PM ET"
+        "baseline": 5.87,
+        "label": "04:00 AM ET"
       },
       {
         "current": 0,
-        "baseline": 2.34,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 1,
-        "baseline": 9.33,
-        "label": "08:00 AM ET"
+        "baseline": 9.7,
+        "label": "10:00 AM ET"
       },
       {
         "current": 0,
-        "baseline": 10.92,
-        "label": "02:00 PM ET"
+        "baseline": 8.74,
+        "label": "04:00 PM ET"
       },
       {
         "current": 0,
-        "baseline": 5.21,
-        "label": "08:00 PM ET"
+        "baseline": 3.5,
+        "label": "10:00 PM ET"
       },
       {
         "current": 0,
-        "baseline": 2.34,
-        "label": "02:00 AM ET"
+        "baseline": 5.87,
+        "label": "04:00 AM ET"
+      },
+      {
+        "current": 30,
+        "baseline": 9.69,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 10,
+        "baseline": 8.68,
+        "label": "04:00 PM ET"
       },
       {
         "current": 0,
-        "baseline": 9.33,
-        "label": "08:00 AM ET"
-      },
-      {
-        "current": 40,
-        "baseline": 10.84,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 5.19,
-        "label": "08:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 2.34,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 16,
-        "baseline": 9.3,
-        "label": "08:00 AM ET"
-      },
-      {
-        "current": 5,
-        "baseline": 11.29,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 3,
-        "baseline": 4.99,
-        "label": "08:00 PM ET"
+        "baseline": 3.48,
+        "label": "10:00 PM ET"
       },
       {
         "current": 2,
-        "baseline": 2.34,
-        "label": "02:00 AM ET"
+        "baseline": 5.83,
+        "label": "04:00 AM ET"
+      },
+      {
+        "current": 15,
+        "baseline": 10.02,
+        "label": "10:00 AM ET"
       },
       {
         "current": 5,
-        "baseline": 9.21,
-        "label": "08:00 AM ET"
+        "baseline": 8.77,
+        "label": "04:00 PM ET"
       },
       {
-        "current": 0,
-        "baseline": 11.28,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 5.01,
-        "label": "08:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 2.33,
-        "label": "02:00 AM ET"
+        "current": 2,
+        "baseline": 3.3,
+        "label": "10:00 PM ET"
       },
       {
         "current": 4,
-        "baseline": 9,
-        "label": "08:00 AM ET"
+        "baseline": 5.81,
+        "label": "04:00 AM ET"
       },
       {
         "current": 3,
-        "baseline": 11.24,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 1,
-        "baseline": 4.98,
-        "label": "08:00 PM ET"
+        "baseline": 9.96,
+        "label": "10:00 AM ET"
       },
       {
         "current": 0,
-        "baseline": 2.3,
-        "label": "02:00 AM ET"
+        "baseline": 8.76,
+        "label": "04:00 PM ET"
       },
       {
-        "current": 2,
-        "baseline": 8.44,
-        "label": "08:00 AM ET"
+        "current": 0,
+        "baseline": 3.32,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 5.8,
+        "label": "04:00 AM ET"
+      },
+      {
+        "current": 4,
+        "baseline": 9.71,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 4,
+        "baseline": 8.73,
+        "label": "04:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 3.31,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 5.77,
+        "label": "04:00 AM ET"
+      },
+      {
+        "current": 5,
+        "baseline": 9.28,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 8.11,
+        "label": "04:00 PM ET"
       }
     ],
     "12h": [
       {
-        "current": 2,
-        "baseline": 17.18,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 4,
-        "baseline": 12.42,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 13,
-        "baseline": 17.08,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 6,
-        "baseline": 12.32,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 8,
-        "baseline": 17.11,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 3,
-        "baseline": 12.37,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 9,
-        "baseline": 16.79,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 12.28,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 2,
-        "baseline": 16.4,
-        "label": "02:00 PM ET"
-      },
-      {
         "current": 1,
-        "baseline": 12.22,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 16.28,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 13,
-        "baseline": 12.21,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 15,
-        "baseline": 16.13,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 1,
-        "baseline": 11.68,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 16.13,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 11.68,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 40,
-        "baseline": 16.03,
-        "label": "02:00 PM ET"
+        "baseline": 9.61,
+        "label": "10:00 PM ET"
       },
       {
         "current": 16,
-        "baseline": 11.64,
-        "label": "02:00 AM ET"
+        "baseline": 19.9,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 4,
+        "baseline": 9.47,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 10,
+        "baseline": 19.97,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 3,
+        "baseline": 9.49,
+        "label": "10:00 PM ET"
       },
       {
         "current": 8,
-        "baseline": 16.28,
-        "label": "02:00 PM ET"
+        "baseline": 19.67,
+        "label": "10:00 AM ET"
       },
       {
-        "current": 7,
-        "baseline": 11.56,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 0,
-        "baseline": 16.29,
-        "label": "02:00 PM ET"
-      },
-      {
-        "current": 4,
-        "baseline": 11.33,
-        "label": "02:00 AM ET"
-      },
-      {
-        "current": 4,
-        "baseline": 16.22,
-        "label": "02:00 PM ET"
+        "current": 1,
+        "baseline": 9.42,
+        "label": "10:00 PM ET"
       },
       {
         "current": 2,
-        "baseline": 10.74,
-        "label": "02:00 AM ET"
+        "baseline": 19.28,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 1,
+        "baseline": 9.39,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 19.17,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 10,
+        "baseline": 9.33,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 18,
+        "baseline": 19.06,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 1,
+        "baseline": 9.39,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 18.44,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 9.37,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 40,
+        "baseline": 18.37,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 2,
+        "baseline": 9.31,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 20,
+        "baseline": 18.79,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 6,
+        "baseline": 9.11,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 3,
+        "baseline": 18.71,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 9.12,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 8,
+        "baseline": 18.44,
+        "label": "10:00 AM ET"
+      },
+      {
+        "current": 0,
+        "baseline": 9.08,
+        "label": "10:00 PM ET"
+      },
+      {
+        "current": 5,
+        "baseline": 17.39,
+        "label": "10:00 AM ET"
       }
     ],
     "24h": [
@@ -548,8 +548,8 @@
         "label": "Nov 24"
       },
       {
-        "current": 2,
-        "baseline": 12.06,
+        "current": 5,
+        "baseline": 24.67,
         "label": "Nov 25"
       }
     ],
@@ -565,8 +565,8 @@
         "label": "Nov 24"
       },
       {
-        "current": 2,
-        "baseline": 12.06,
+        "current": 5,
+        "baseline": 24.67,
         "label": "Nov 25"
       }
     ],
@@ -602,8 +602,8 @@
         "label": "Nov 24"
       },
       {
-        "current": 2,
-        "baseline": 12.06,
+        "current": 5,
+        "baseline": 24.67,
         "label": "Nov 25"
       }
     ],
@@ -754,8 +754,8 @@
         "label": "Nov 24"
       },
       {
-        "current": 2,
-        "baseline": 12.06,
+        "current": 5,
+        "baseline": 24.67,
         "label": "Nov 25"
       }
     ],
@@ -906,8 +906,8 @@
         "label": "Nov 22"
       },
       {
-        "current": 2,
-        "baseline": 66.26,
+        "current": 5,
+        "baseline": 78.87,
         "label": "Nov 25"
       }
     ]
@@ -917,19 +917,19 @@
       "label": "LOW ACTIVITY",
       "level": "low",
       "window": "Last 12h",
-      "current": 2,
-      "low": 5.4,
-      "high": 16.3,
-      "pct": -81.57625383828045
+      "current": 5,
+      "low": 9.2,
+      "high": 27.6,
+      "pct": -72.80966767371602
     },
     {
       "label": "LOW ACTIVITY",
       "level": "low",
       "window": "Today (so far)",
-      "current": 2,
-      "low": 6.0,
-      "high": 18.1,
-      "pct": -83.41013824884793
+      "current": 5,
+      "low": 12.3,
+      "high": 37.0,
+      "pct": -79.72972972972973
     }
   ]
 }
